@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SampleWebApp
+build_property.RootNamespace = SampleWebApp
+build_property.ProjectDir = C:\Users\anairis\documentos\React Native & IONIC\Ionic 4\angular\proyectos\ASP.NET CORE\SampleWebApp\SampleWebApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\anairis\documentos\React Native & IONIC\Ionic 4\angular\proyectos\ASP.NET CORE\SampleWebApp\SampleWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Samples/ShowSearchForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FtcGxlc1xTaG93U2VhcmNoRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/anairis/documentos/React Native & IONIC/Ionic 4/angular/proyectos/ASP.NET CORE/SampleWebApp/SampleWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ln9tm4v711
